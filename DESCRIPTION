@@ -1,5 +1,5 @@
 Package: WassersteinGoF
-Type: Package
+Type: Package test
 Title: Wasserstein-based goodness-of-fit test
 Version: 1.0
 Date: 2020-12-09
